@@ -1,0 +1,28 @@
+{
+    "history": [
+      {
+        "value_trade": 9,
+        "player_1": "METAPOD",
+        "player_2": "SQUIRTLE",
+        "id": 2
+      },
+      {
+        "value_trade": 11,
+        "player_1": "CATERPIE",
+        "player_2": "PIDGEY",
+        "id": 3
+      },
+      {
+        "value_trade": 0,
+        "player_1": " BULBASAUR, BULBASAUR, BULBASAUR, BULBASAUR, BULBASAUR, BULBASAUR",
+        "player_2": " BULBASAUR, BULBASAUR, BULBASAUR, BULBASAUR, BULBASAUR, BULBASAUR",
+        "id": 4
+      },
+      {
+        "value_trade": 0,
+        "player_1": " CATERPIE, CATERPIE, CATERPIE, CATERPIE, CATERPIE, BULBASAUR",
+        "player_2": " CATERPIE, CATERPIE, CATERPIE, CATERPIE, CATERPIE, BULBASAUR",
+        "id": 5
+      }
+    ]
+  }
