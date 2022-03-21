@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Keterly",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
